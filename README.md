@@ -1,4 +1,5 @@
 ### This project contains the code used in the analysis,research and visualization of the Thesis.
+###### The repository for it can accessed from this link: https://github.com/pariidanDKE/ThesisCode_Fin
 
 There are two main directories : BayesianNetwork and OnPLS
 
