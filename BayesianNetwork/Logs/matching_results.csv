@@ -1,0 +1,2 @@
+,NodesPerBlock,Computed_EdgeCount,Computed_NodeCount,Real_EdgeCount,Real_NodeCount,Matches,MatchCount,Selection Method,Configuration,StructureLearningMethod
+0,10,36,30,8,11,[],0,OnPLs,No Config,HillClimb
