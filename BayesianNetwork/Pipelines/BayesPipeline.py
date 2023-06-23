@@ -1,5 +1,3 @@
-import time
-
 import pandas as pd
 import itertools
 import numpy as np
@@ -16,8 +14,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 from random import sample
 import warnings
 
-from BayesianNetwork.HelperMethods.DicretizeData import discretize_data
-
+from DicretizeData import discretize_data
 warnings.filterwarnings('ignore')
 
 
