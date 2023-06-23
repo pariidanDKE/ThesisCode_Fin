@@ -1,5 +1,5 @@
 import pandas as pd
-from BayesianNetwork.Pipelines.BayesPipeline import setup_data, determine_selection_method
+from BayesPipeline import setup_data, determine_selection_method
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import cross_validate
 

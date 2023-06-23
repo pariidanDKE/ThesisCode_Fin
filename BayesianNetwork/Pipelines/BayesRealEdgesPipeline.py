@@ -5,8 +5,8 @@ import numpy as np
 from pgmpy.estimators import K2Score
 from pgmpy.estimators import HillClimbSearch
 
-from BayesianNetwork.Pipelines.DicretizeData import discretize_data
-from BayesianNetwork.Pipelines.BayesPipeline import fit_network, keep_needed_edges, \
+from DicretizeData import discretize_data
+from BayesPipeline import fit_network, keep_needed_edges, \
     remove_duplicates_from_list_of_tuples
 
 
